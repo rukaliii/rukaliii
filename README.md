@@ -20,8 +20,8 @@
 
 ## 📊 GitHub Stats
 
-![github-readme-stats](https://github-readme-stats-nu-three-61.vercel.app/api/?username=rukaliii)
-![github-readme-stats](https://github-readme-stats-nu-three-61.vercel.app/api/top-langs/?username=rukaliii)
+![github-readme-stats](https://github-readme-stats-nu-three-61.vercel.app/api/?username=rukaliii&theme=radical)
+![github-readme-stats](https://github-readme-stats-nu-three-61.vercel.app/api/top-langs/?username=rukaliii&theme=radical)
 
 ---
 
