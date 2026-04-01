@@ -1,16 +1,43 @@
-## Hi there 👋
+<table>
+<tr>
+<td>
 
-<!--
-**rukaliii/rukaliii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <div align="center">👋 Hi there</div>
 
-Here are some ideas to get you started:
+* 💡 Interests: Embedded Systems / Signal Processing / Software Engineering
+* 🧪 Main Projects: Disaster prevention systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</td>
+<td>
+
+# <div align="center">🖊️ My Skill</div>
+<img src="https://skillicons.dev/icons?i=arduino,cs,css,dotnet,html,htmx,py" />
+
+</td>
+</tr>
+</table>
+
+
+## 📊 GitHub Stats
+
+![github-readme-stats](https://github-readme-stats-nu-three-61.vercel.app/api/?username=rukaliii)
+![github-readme-stats](https://github-readme-stats-nu-three-61.vercel.app/api/top-langs/?username=rukaliii)
+
+---
+
+
+<table>
+<tr>
+<td>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rukaliii&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</td>
+<td>
+
+# <div align="center">🖊️ My Skill</div>
+<img src="https://skillicons.dev/icons?i=arduino,cs,css,dotnet,html,htmx,py" />
+
+</td>
+</tr>
+</table>
